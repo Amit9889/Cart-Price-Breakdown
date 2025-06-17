@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/9b077a11-0274-47b5-8cbd-4523cc0b1ba8)
+
 # Cart Price Breakdown Component
 
 A comprehensive, production-ready ReactJS shopping cart component with detailed price breakdown, real-time calculations, and advanced features like promo codes, multiple shipping options, and persistent storage.
